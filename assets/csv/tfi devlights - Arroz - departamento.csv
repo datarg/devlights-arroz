@@ -1,0 +1,132 @@
+id,nombre,codigo,provincia_id
+1,Santo Tomé,18168,1
+2,Pilagás,34042,2
+3,El Carmen,38014,3
+4,San Pedro,38063,3
+5,Santa Bárbara,38070,3
+6,General Alvear,50014,4
+7,Apóstoles,54007,5
+8,Candelaria,54021,5
+9,Concepción,54035,5
+10,San Ignacio,54098,5
+11,San Javier,54105,5
+12,Anta,66007,6
+13,Campo santo,66049,6
+14,Metán,66112,6
+15,Orán,66126,6
+16,Chicligasta,90021,7
+17,Río Chico,90077,7
+18,Paso de los Libres,18119,1
+19,San Martín,18147,1
+20,Pilcomayo,34049,2
+21,Graneros,90035,7
+22,Monteros,90070,7
+23,Ituzaingó,18084,1
+24,Leales,90056,7
+25,Quilmes,6658,8
+26,Empedrado,18042,1
+27,San Javier,82098,9
+28,Burruyacú,90007,7
+29,Cruz Alta,90014,7
+30,Famaillá,90028,7
+31,Capital,90084,7
+32,Tafí del Valle,90098,7
+33,Trancas,90112,7
+34,Gobernador Ovejero,38007,3
+35,Pocito,70070,10
+36,Bella Vista,18007,1
+37,San Cosme,18133,1
+38,La Capital,38021,3
+39,Ledesma,38035,3
+40,Avellaneda,6035,8
+41,Pilar,6638,8
+42,Las conchas,6805,8
+43,Capital,18021,1
+44,Gualeguay,30049,11
+45,Uruguay,30098,11
+46,Pirané,34056,2
+47,Aguirre,86007,12
+48,Monte Caseros,18112,1
+49,General Sarmiento,6412,8
+50,San Roque,18161,1
+51,Villaguay,30113,11
+52,Lavalle,18091,1
+53,Mercedes,18105,1
+54,Cainguás,54014,5
+55,Capital,54028,5
+56,Campana,6126,8
+57,Goya,18070,1
+58,Itatí,18077,1
+59,San Luis del Palmar,18140,1
+60,Napalpí,22049,13
+61,Río Teuco,22063,13
+62,Campo del Cielo,22105,13
+63,Colón,30008,11
+64,Concordia,30015,11
+65,Federación,30028,11
+66,Gualeguaychú,30056,11
+67,La Paz,30070,11
+68,Rosario del Tala,30091,11
+69,San Martín,46091,14
+70,La Frontera,54049,5
+71,Guaraní,54056,5
+72,Iguazú,54063,5
+73,San Pedro,54112,5
+74,Rivadavia,66133,6
+75,Curuzu Cuatia,18035,1
+76,Berón de Astrada,18014,1
+77,General Paz,18063,1
+78,Laishí,34021,2
+79,San Jerónimo,82105,9
+80,Concepción,18028,1
+81,San Lorenzo,82119,9
+82,Esquina,18049,1
+83,Formosa,34014,2
+84,General Roca,62042,15
+85,General Obligado,82049,9
+86,Río Cuarto,14098,16
+87,Mburucuyá,18098,1
+88,Saladas,18126,1
+89,San Miguel,18154,1
+90,Feliciano,30042,11
+91,Patiño,34035,2
+92,Avellaneda,86028,12
+93,La Banda,86035,12
+94,Copo,86056,12
+95,Figueroa,86070,12
+96,Guasayán,86084,12
+97,Matará,86098,12
+98,Loreto,86105,12
+99,Moreno,86119,12
+100,Quebrachos,86140,12
+101,Río Hondo,86147,12
+102,Robles,86161,12
+103,Silípica,86189,12
+104,Diamante,30021,11
+105,Paraná,30084,11
+106,Victoria,30105,11
+107,Capital,82063,9
+108,San Justo,82112,9
+109,Unión,14182,16
+110,Rio Bermejo,22014,13
+111,Sauce,18175,1
+112,Las Colonias,82070,9
+113,Garay,82035,9
+114,Ramallo,6665,8
+115,San Nicolás,6763,8
+116,Zárate,6882,8
+117,General Alvear,18056,1
+118,Constitución,82028,9
+119,Leandro N. Alem,54070,5
+120,Oberá,54091,5
+121,25 de Mayo,54119,5
+122,Mburucuyá,18092,1
+123,Mercedes,18121,1
+124,Libertador General San Martín,22084,13
+125,Mburucuyá,18093,1
+126,Mburucuyá,18094,1
+127,Mburucuyá,18095,1
+128,Mburucuyá,18096,1
+129,Mburucuyá,18097,1
+130,Federal,30035,11
+131,Mburucuyá,18099,1
